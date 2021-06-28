@@ -22,12 +22,13 @@ Per i dettagli tecnici, approfondimenti consultare la [**Documentazione**](/docs
 {{% /blocks/cover %}}
 
 {{% blocks/section type="section" color="primary" %}}
-
+{% blocks/cover title="Ciclorifugio-4.0 : 4# PROTOTIPAZIONE" height="auto" %}}
 ## 5 GOALS SU 17
-![alt](https://github.com/H-AlessioMurta/docsy/blob/master/images/collapsed.PNG)
-
 Le varie fasi del Ciclorifugio 4.0 rispettano diversi [**obiettivi (SDGS)che l'ONU**](https://sdgs.un.org/goals) si è preposta da raggiungere entro 2030
-* **Goal  Istruzione di qualità** 4.7 Entro il 2030, assicurarsi che tutti gli studenti acquisiscono le conoscenze e le competenze necessarie per promuovere lo sviluppo sostenibile attraverso, tra l’altro, l'educazione per lo sviluppo sostenibile e stili di vita sostenibili, i diritti umani, l'uguaglianza di genere, la promozione di una cultura di pace e di non violenza, la cittadinanza globale e la valorizzazione della diversità culturale e del contributo della cultura allo sviluppo sostenibile
+{{% blocks/section type="section" color="primary" %}}
+{% blocks/cover title="Ciclorifugio-4.0 : 4# PROTOTIPAZIONE" height="auto" %}}
+Goal  Istruzione di qualità** 4.7 Entro il 2030, assicurarsi che tutti gli studenti acquisiscono le conoscenze e le competenze necessarie per promuovere lo sviluppo sostenibile attraverso, tra l’altro, l'educazione per lo sviluppo sostenibile e stili di vita sostenibili, i diritti umani, l'uguaglianza di genere, la promozione di una cultura di pace e di non violenza, la cittadinanza globale e la valorizzazione della diversità culturale e del contributo della cultura allo sviluppo sostenibile
+{{% blocks/section type="section" color="primary" %}}
 * **Goal Acqua pulita .** 6.2: Entro il 2030, raggiungere un adeguato ed equo accesso ai servizi igienicosanitari e di igiene per tutti ed eliminare la defecazione all'aperto, con particolare attenzione ai bisogni delle donne e delle ragazze e di coloro che si trovano in situazioni vulnerabili 
 * **Goal Citta sostenibili** 
 11.4 Rafforzare gli impegni per proteggere e salvaguardare il patrimonio culturale e naturale del mondo**: **11.b** Entro il 2020, aumentare notevolmente il numero di città e di insediamenti umani che adottino e attuino politiche e piani integrati verso l'inclusione, l'efficienza delle risorse, la mitigazione e l'adattamento ai cambiamenti climatici, la resilienza ai disastri, lo sviluppo e l’implementazione, in linea con il “Quadro di Sendai per la Riduzione del Rischio di Disastri 2015-2030”, la gestione complessiva del rischio di catastrofe a tutti i livelli

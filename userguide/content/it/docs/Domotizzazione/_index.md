@@ -7,9 +7,9 @@ description: >
 ---
 
 ## Dispositivi IoT per domotizzazione
+Allo scopo di miglioare l'esperienza dell'utente il gruppo ha selezionato una lista di interazioni ed automatismi da implementare attraverso dispositivi IoT.
 
 ### Potenziali prodotti per la domotizzazione del ciclorifugio
-
 * [Home assistant](https://www.home-assistant.io/) 
 * [Savant](https://www.savant.com/)
 * [Control4](http://www.control4.it/wordpress/)

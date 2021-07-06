@@ -33,7 +33,7 @@ Le varie fasi del Ciclorifugio 4.0 rispettano diversi [**obiettivi (SDGS)che l'O
 <tr><td>{{< figure src="/SDGS1.PNG" title="Our SDGS" >}}</td><td>**Goal Citta sostenibili** 11.4 Rafforzare gli impegni per proteggere e salvaguardare il patrimonio culturale e naturale del mondo**: **11.b** Entro il 2020, aumentare notevolmente il numero di città e di insediamenti umani che adottino e attuino politiche e piani integrati verso l'inclusione, l'efficienza delle risorse, la mitigazione e l'adattamento ai cambiamenti climatici, la resilienza ai disastri, lo sviluppo e l’implementazione, in linea con il “Quadro di Sendai per la Riduzione del Rischio di Disastri 2015-2030”, la gestione complessiva del rischio di catastrofe a tutti i livelli</td></tr>
 <tr><td>{{< figure src="/SDGS1.PNG" title="Our SDGS" >}}</td><td>**Goal Consumo e produzione responsabili**  12.2 Entro il 2030, raggiungere la gestione sostenibile e l'uso efficiente delle risorse naturali 12.7 Promuovere pratiche in materia di appalti pubblici che siano sostenibili, in accordo con le politiche e le priorità nazionali 12.8 Entro il 2030, fare in modo che le persone abbiano in tutto il mondo le informazioni rilevanti e la consapevolezza in tema di sviluppo sostenibile e stili di vita in armonia con la natura</td></tr>
 <tr><td>{{< figure src="/SDGS1.PNG" title="Our SDGS" >}}</td><td> **Goal Lotta contro il cambiamento climatico** 13.3 Migliorare l'istruzione, la sensibilizzazione e la capacità umana e istituzionale riguardo ai cambiamenti climatici in materia di mitigazione, adattamento, riduzione dell’impatto e di allerta precoce</td></tr>
-
+</table>
 {{% /blocks/section %}}
 {{% blocks/section type="section" color="blue" %}}
 ## Partner Internazionali e Nazionali

@@ -59,8 +59,11 @@ Territorio e Green Tech.
 |---------------------------------------------------------------|
 |Ciclorifugio : Accessibile, Servizi Base|Inserimento in ROUTE internazionali e in reti turistiche esisstenti<br>
  CicloB&B:Un servizio di alto livello di pernottamento, camere con porte, possibilità di ristorazione di livello|
+ 
 |PARTNERS                        |
+|---------------------------------------------------------------|
 ||[Cycle.Travel](https://cycle.travel/) <br>[Komoot](https://www.komoot.com/)<br>[Garden Connnect](http://www.its40.it/wp/portfolio_page/garden-connected-2/)<br>[Starbox](https://www.starsbox.it/)<br>[Italy bike hotels](https://www.italybikehotels.com/)|
 |MANTENIMENTO                    |
+|---------------------------------------------------------------|
 |GAMIFICATION <br>RISTORAZIONE<br>VENDITA di beni locali/dedicati alla bici <br>GITE SCOLASTICHE NATURA + GREEN TECH<br>PRENOTAZIONE PERNOTTAMENTO|
 {{% /blocks/section %}}

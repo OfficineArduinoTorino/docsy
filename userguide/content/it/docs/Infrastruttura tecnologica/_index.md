@@ -1,7 +1,7 @@
 ---
-title: "Infrastruttura"
-linkTitle: "Infrastruttura"
-weight: 3
+title: "Infrastruttura tecnologica"
+linkTitle: "infrastruttura"
+weight: 2
 description: >
   Infrastruttura tecnologica.
 ---
@@ -34,6 +34,18 @@ L'utilizzo di interruttori fisici smart;
 l'interazione con una home-dashboard (Display touch installato a muro che permette di interagire con tutti gli aspetti 
 del rifugio);
 
-#### Implementazioni future
-Applicativo mobile che permetta (una volta collegato al Wi-Fi del rifugio) il controllo delle automazioni in maniera
-facile e intuitiva.
+### L'infrastruttura cloud based (AWS)
+Per evitare una gestione on-premise é stata pensata un'infrastruttura cloud adibita a hostare le Web page dinamiche e il database.
+
+L'hosting delle pagine web viene gestito da AWS Amplify, restando sotto il limite del piano gratuito di AWS (1000 minuti di creazione e distribuzione, 5GB sul server, 15GB storage) il billing é di circa 0.50$/mese.
+
+L'autenticazione viene affidata al servizio AWS Cognito che ci permetterà gratuitamente di mantenere 50000 utenti attivi. 
+
+La gestione delle chiamate alle API  delle dashboard sarà una combinazione di Amazon API Gateway e Lambda. Gateway gestirà le chiamate alle API con un billing proporzionale alle chiamate (inferiore a 0.90$/mese). Lambda permetterà di hostare il codice necessario alle api, rendendo l'html statico una pagina web dinamica dove poter interagire con le varie componenti. Lambda é gratuito sotto il milione di richieste al mese.
+
+Il database sarà un istanza di DynamoDB, conserverà i dati necessari al funzionamento della webpage e le credenziali.
+
+### Implementazioni future
+* Applicativo mobile che permetta (una volta collegato al Wi-Fi del rifugio) il controllo delle automazioni in maniera facile e intuitiva. 
+* Registrazione delle telemetrie dei rifugi sul sull'istanza di DynamoDB, a scopo analitico.
+

@@ -1,14 +1,14 @@
 ---
-title: "IoT"
+title: "Domotizzazione"
 linkTitle: "IoT"
 weight: 3
 description: >
-  Domotittazione del ciclorifugio.
+  Domotittazione del ciclorifugio, dispositivi IoT selezionati, BOM.
 ---
 
-### Dispositivi IoT per domotizzazione
+## Dispositivi IoT per domotizzazione
 
-#### Potenziali prodotti per la domotizzazione del ciclorifugio
+### Potenziali prodotti per la domotizzazione del ciclorifugio
 
 * [Home assistant](https://www.home-assistant.io/) 
 * [Savant](https://www.savant.com/)
@@ -19,7 +19,7 @@ description: >
 
 <em>E' stato selezionato Home assistant</em>
 
-#### Dispositivi IoT necessari nel ciclorifugio (MQTT)
+### Dispositivi IoT necessari nel ciclorifugio (MQTT)
 
 | Dispositivo | prodotto (link) | home assistant/tasmota link | protocollo di comunicazione | prezzo |
 |---|---|---|---|---|

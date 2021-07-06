@@ -11,15 +11,12 @@ layout: docs
 {{% blocks/cover title="Ciclorifugio-4.0 : 4# PROTOTIPAZIONE" height="auto" %}}
 
 {{% /blocks/cover %}}
-
 {{% blocks/section type="section" color="orange" %}}
-
 # Ciclorifugio - un modello economico realizzabile
 Tante correnti ed enti stanno già prevedendo come e in che forma avverà la ripresa del settore turistico *Post Pandemia*
 La *C.E.* utilizzerà una politica di sostegno massivo verso la Green Economy, un paradigma che diventerà necessario per tutti gli operatori turistici.
 ## Italia e la bici, un mercato acerbo che può solo aumentare
 Con associazioni d'appassionati e poche infrastutture di livello il mercato pre pandemico era valutato dal report [**ISNART-Legambiente 2019**](https://mybikeway.it/wp-content/uploads/2019/03/1%C2%B0-rapporto-sul-Cicloturismo-in-Italia-2019-Unioncamere-Legambiente.pdf)  **12 miliardi d'euro**
-
 Per i dettagli tecnici, approfondimenti consultare la [**Documentazione**](/docs/) !
 {{% /blocks/section %}}
 {{% blocks/section type="section" color="white" %}}
@@ -48,12 +45,9 @@ Quindi potrebbe essere interessante inserire una spiegazione anche fornita dall'
 Territorio e Green Tech.
 * **NEGOZI DI BICI:** Oltre ad offrire kit di assistenza nel nostro ciclorifugio, un'azienda di noleggio bici potrebbe rispondere a quella esigenza di chi, magari non ha modo o voglia di portarsi la propria bici.
 * **AGRITURISMI:** C’è poco da fare, se ti trovi bene dove mangi/dormi crei un rapporto di fiducia, interiorizzando nel progetto i locali dell’area (magari con vending macchine atipiche con prodotti locali) avremmo una pubblicità continua e passiva.
-
 {{% /blocks/section %}}
-
 {{% blocks/section type="section" color="white" %}}
 # Ciclo di vita di un Ciclorifugio
-
 |RETROFITTING                    |
 |---------------------------------------------------------------|
 |Ciclorifugio : Accessibile, Servizi Base|Inserimento in ROUTE internazionali e in reti turistiche esisstenti<br>

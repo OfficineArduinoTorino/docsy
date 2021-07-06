@@ -21,7 +21,7 @@ Con associazioni d'appassionati e poche infrastutture di livello il mercato pre 
 Per i dettagli tecnici, approfondimenti consultare la [**Documentazione**](/docs/) !
 {{% /blocks/cover %}}
 
-{{% blocks/section type="section" color="primary" %}}
+{{% blocks/section type="section" color="orange" %}}
 
 ## 5 GOALS SU 17
 
@@ -39,14 +39,15 @@ Le varie fasi del Ciclorifugio 4.0 rispettano diversi [**obiettivi (SDGS)che l'O
 * **Goal Lotta contro il cambiamento climatico** 
 13.3 Migliorare l'istruzione, la sensibilizzazione e la capacità umana e istituzionale riguardo ai cambiamenti climatici in materia di mitigazione, adattamento, riduzione dell’impatto e di allerta precoce
 
-
+{{% /blocks/section %}}
+{{% blocks/section type="section" color="navy" %}}
 ## Partner Internazionali e Nazionali
 
 * [**Eurovelo**](https://en.eurovelo.com/) Leader del Cicloturismo Nord Europeo
 * [**Federazione Italiana Ambiente e Bici**](https://fiabitalia.it/) Federazione che si occupa della promozione della cultura ciclistica
 * [**Giro d’Italia**](https://www.giroditalia.it/) Con ciclorifugii posizionati presso tappe storiche e che invoglino atleti ad allenarsi 
 
-
+{{% blocks/section type="section" color="navy" %}}
 ## Partner Locali
 Più persone vivono il rifugio, più il rifugio ha successo e viene curato:
 * **AGRICOLTORI:** Offerta di usare il nostro gateway LoRa per la parte della Agritech
@@ -56,6 +57,9 @@ Territorio e Green Tech.
 * **NEGOZI DI BICI:** Oltre ad offrire kit di assistenza nel nostro ciclorifugio, un'azienda di noleggio bici potrebbe rispondere a quella esigenza di chi, magari non ha modo o voglia di portarsi la propria bici.
 * **AGRITURISMI:** C’è poco da fare, se ti trovi bene dove mangi/dormi crei un rapporto di fiducia, interiorizzando nel progetto i locali dell’area (magari con vending macchine atipiche con prodotti locali) avremmo una pubblicità continua e passiva.
 
+{{% /blocks/section %}}
+
+{{% blocks/section type="section" color="orange" %}}
 # Ciclo di vita di un Ciclorifugio
 
 |RETROFITTING          |PROMOZIONE          |MANTENIMENTO          |

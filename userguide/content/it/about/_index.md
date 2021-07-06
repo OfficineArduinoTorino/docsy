@@ -62,9 +62,14 @@ Territorio e Green Tech.
  
 |PARTNERS                        |
 |---------------------------------------------------------------|
-||[Cycle.Travel](https://cycle.travel/)<br>[Komoot](https://www.komoot.com/)<br>[Garden Connnect](http://www.its40.it/wp/portfolio_page/garden-connected-2/)<br>[Starbox](https://www.starsbox.it/)<br>[Italy bike hotels](https://www.italybikehotels.com/)|
+[Cycle.Travel](https://cycle.travel/)
+[Komoot](https://www.komoot.com/)
+[Garden Connnect](http://www.its40.it/wp/portfolio_page/garden-connected-2/)
+[Starbox](https://www.starsbox.it/)
+[Italy bike hotels](https://www.italybikehotels.com/)
 
 |MANTENIMENTO                    |
 |---------------------------------------------------------------|
 |GAMIFICATION <br>RISTORAZIONE<br>VENDITA di beni locali/dedicati alla bici <br>GITE SCOLASTICHE NATURA + GREEN TECH<br>PRENOTAZIONE PERNOTTAMENTO|
+
 {{% /blocks/section %}}

@@ -1,7 +1,7 @@
 ---
 title: "Ricerca"
 linkTitle: "Ricerca"
-weight: 3
+weight: 1
 description: >
   Ricerca sul Campo.
 ---

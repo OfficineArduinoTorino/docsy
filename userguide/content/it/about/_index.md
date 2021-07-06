@@ -35,7 +35,7 @@ Le varie fasi del Ciclorifugio 4.0 rispettano diversi [**obiettivi (SDGS)che l'O
 * [**Federazione Italiana Ambiente e Bici**](https://fiabitalia.it/) Federazione che si occupa della promozione della cultura ciclistica
 * [**Giro d’Italia**](https://www.giroditalia.it/) Con ciclorifugii posizionati presso tappe storiche e che invoglino atleti ad allenarsi 
 {{% /blocks/section %}}
-{{% blocks/section type="section" color="navy" %}}
+{{% blocks/section type="section" color="orange" %}}
 ## Partner Locali
 Più persone vivono il rifugio, più il rifugio ha successo e viene curato:
 * **AGRICOLTORI:** Offerta di usare il nostro gateway LoRa per la parte della Agritech

@@ -9,25 +9,27 @@ layout: docs
 ---
 
 {{% blocks/cover title="Ciclorifugio-4.0 : 4# PROTOTIPAZIONE" height="auto" %}}
-
-# Ciclorifugio - un modello economico realizzabile
-Tante correnti ed enti stanno già prevedendo come e in che forma avverà la ripresa del settore turistico *Post Pandemia*
-La *C.E.* utilizzerà una politica di sostegno massivo verso la Green Economy, un paradigma che diventerà necessario per tutti gli operatori turistici.
-
-## Italia e la bici, un mercato acerbo che può solo aumentare
-Con associazioni d'appassionati e poche infrastutture di livello il mercato pre pandemico era valutato dal report [**ISNART-Legambiente 2019**](https://mybikeway.it/wp-content/uploads/2019/03/1%C2%B0-rapporto-sul-Cicloturismo-in-Italia-2019-Unioncamere-Legambiente.pdf)  **12 miliardi d'euro**
-
-
-Per i dettagli tecnici, approfondimenti consultare la [**Documentazione**](/docs/) !
+adigma che diventerà necessario per tutti gli operatori turistici.
 {{% /blocks/cover %}}
 
 {{% blocks/section type="section" color="orange" %}}
 
+# Ciclorifugio - un modello economico realizzabile
+Tante correnti ed enti stanno già prevedendo come e in che forma avverà la ripresa del settore turistico *Post Pandemia*
+La *C.E.* utilizzerà una politica di sostegno massivo verso la Green Economy, un par
+## Italia e la bici, un mercato acerbo che può solo aumentare
+Con associazioni d'appassionati e poche infrastutture di livello il mercato pre pandemico era valutato dal report [**ISNART-Legambiente 2019**](https://mybikeway.it/wp-content/uploads/2019/03/1%C2%B0-rapporto-sul-Cicloturismo-in-Italia-2019-Unioncamere-Legambiente.pdf)  **12 miliardi d'euro**
+
+Per i dettagli tecnici, approfondimenti consultare la [**Documentazione**](/docs/) !
+{{% /blocks/section %}}
+
 ## 5 GOALS SU 17
-
-{{< figure src="/collapsed.PNG" title="Our SDGS" >}}
-
 Le varie fasi del Ciclorifugio 4.0 rispettano diversi [**obiettivi (SDGS)che l'ONU**](https://sdgs.un.org/goals) si è preposta da raggiungere entro 2030
+|GOAL|    |
+|---------------------|--------------------|
+|{{< figure src="/SDGS1.PNG" title="Our SDGS" >}}|**Goal  Istruzione di qualità** 4.7 Entro il 2030, assicurarsi che tutti gli studenti acquisiscono le conoscenze e le competenze necessarie per promuovere lo sviluppo sostenibile attraverso, tra l’altro, l'educazione per lo sviluppo sostenibile e stili di vita sostenibili, i diritti umani, l'uguaglianza di genere, la promozione di una cultura di pace e di non violenza, la cittadinanza globale e la valorizzazione della diversità culturale e del contributo della cultura allo sviluppo sostenibile|
+
+
 * **Goal  Istruzione di qualità** 4.7 Entro il 2030, assicurarsi che tutti gli studenti acquisiscono le conoscenze e le competenze necessarie per promuovere lo sviluppo sostenibile attraverso, tra l’altro, l'educazione per lo sviluppo sostenibile e stili di vita sostenibili, i diritti umani, l'uguaglianza di genere, la promozione di una cultura di pace e di non violenza, la cittadinanza globale e la valorizzazione della diversità culturale e del contributo della cultura allo sviluppo sostenibile
 * **Goal Acqua pulita .** 6.2: Entro il 2030, raggiungere un adeguato ed equo accesso ai servizi igienicosanitari e di igiene per tutti ed eliminare la defecazione all'aperto, con particolare attenzione ai bisogni delle donne e delle ragazze e di coloro che si trovano in situazioni vulnerabili 
 * **Goal Citta sostenibili** 
@@ -40,13 +42,12 @@ Le varie fasi del Ciclorifugio 4.0 rispettano diversi [**obiettivi (SDGS)che l'O
 13.3 Migliorare l'istruzione, la sensibilizzazione e la capacità umana e istituzionale riguardo ai cambiamenti climatici in materia di mitigazione, adattamento, riduzione dell’impatto e di allerta precoce
 
 {{% /blocks/section %}}
-{{% blocks/section type="section" color="navy" %}}
+{{% blocks/section type="section" color="blue" %}}
 ## Partner Internazionali e Nazionali
-
 * [**Eurovelo**](https://en.eurovelo.com/) Leader del Cicloturismo Nord Europeo
 * [**Federazione Italiana Ambiente e Bici**](https://fiabitalia.it/) Federazione che si occupa della promozione della cultura ciclistica
 * [**Giro d’Italia**](https://www.giroditalia.it/) Con ciclorifugii posizionati presso tappe storiche e che invoglino atleti ad allenarsi 
-
+{{% /blocks/section %}}
 {{% blocks/section type="section" color="navy" %}}
 ## Partner Locali
 Più persone vivono il rifugio, più il rifugio ha successo e viene curato:
@@ -59,7 +60,7 @@ Territorio e Green Tech.
 
 {{% /blocks/section %}}
 
-{{% blocks/section type="section" color="orange" %}}
+{{% blocks/section type="section" color="white" %}}
 # Ciclo di vita di un Ciclorifugio
 
 |RETROFITTING          |PROMOZIONE          |MANTENIMENTO          |

@@ -101,7 +101,7 @@ contentDir = "content/en"
 
 [params]
 copyright = "Ciclorifugio 4.0"
-privacy_policy = "https://policies.google.com/privacy"
+privacy_policy = "https://www.its-ictpiemonte.it/privacy/"
 
 # Menu title if your navbar has a versions selector to access old versions of your site.
 # This menu appears only if you have at least one [params.versions] set.

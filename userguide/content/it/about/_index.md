@@ -69,7 +69,8 @@ Territorio e Green Tech.
 
 |MANTENIMENTO                    |
 |---------------------------------------------------------------|
-GAMIFICATION <br>RISTORAZIONE
+GAMIFICATION
+RISTORAZIONE
 VENDITA di beni locali/dedicati alla bici 
 GITE SCOLASTICHE NATURA + GREEN TECH
 PRENOTAZIONE PERNOTTAMENTO|

@@ -9,14 +9,14 @@ layout: docs
 ---
 
 {{% blocks/cover title="Ciclorifugio-4.0 : 4# PROTOTIPAZIONE" height="auto" %}}
-adigma che diventerà necessario per tutti gli operatori turistici.
+
 {{% /blocks/cover %}}
 
 {{% blocks/section type="section" color="orange" %}}
 
 # Ciclorifugio - un modello economico realizzabile
 Tante correnti ed enti stanno già prevedendo come e in che forma avverà la ripresa del settore turistico *Post Pandemia*
-La *C.E.* utilizzerà una politica di sostegno massivo verso la Green Economy, un par
+La *C.E.* utilizzerà una politica di sostegno massivo verso la Green Economy, un paradigma che diventerà necessario per tutti gli operatori turistici.
 ## Italia e la bici, un mercato acerbo che può solo aumentare
 Con associazioni d'appassionati e poche infrastutture di livello il mercato pre pandemico era valutato dal report [**ISNART-Legambiente 2019**](https://mybikeway.it/wp-content/uploads/2019/03/1%C2%B0-rapporto-sul-Cicloturismo-in-Italia-2019-Unioncamere-Legambiente.pdf)  **12 miliardi d'euro**
 

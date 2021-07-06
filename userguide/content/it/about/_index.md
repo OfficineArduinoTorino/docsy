@@ -68,4 +68,9 @@ VENDITA di beni locali/dedicati alla bici
 GITE SCOLASTICHE NATURA + GREEN TECH
 PRENOTAZIONE PERNOTTAMENTO|
 
+
+
+{{< card header="**Goal  Istruzione di qualità**" title="4.7" footer="![SGDS](/SDGS1.PNG")">>}}
+Entro il 2030, assicurarsi che tutti gli studenti acquisiscono le conoscenze e le competenze necessarie per promuovere lo sviluppo sostenibile attraverso, tra l’altro, l'educazione per lo sviluppo sostenibile e stili di vita sostenibili, i diritti umani, l'uguaglianza di genere, la promozione di una cultura di pace e di non violenza, la cittadinanza globale e la valorizzazione della diversità culturale e del contributo della cultura allo sviluppo sostenibile
+{{< /card >}}
 {{% /blocks/section %}}

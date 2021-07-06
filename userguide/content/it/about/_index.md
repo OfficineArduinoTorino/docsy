@@ -22,7 +22,7 @@ Con associazioni d'appassionati e poche infrastutture di livello il mercato pre 
 
 Per i dettagli tecnici, approfondimenti consultare la [**Documentazione**](/docs/) !
 {{% /blocks/section %}}
-
+{{% blocks/section type="section" color="white" %}}
 ## 5 GOALS SU 17
 Le varie fasi del Ciclorifugio 4.0 rispettano diversi [**obiettivi (SDGS)che l'ONU**](https://sdgs.un.org/goals) si è preposta da raggiungere entro 2030
 |GOAL|    |

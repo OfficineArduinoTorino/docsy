@@ -45,6 +45,8 @@ La gestione delle chiamate alle API  delle dashboard sarà una combinazione di A
 
 Il database sarà un istanza di DynamoDB, conserverà i dati necessari al funzionamento della webpage e le credenziali.
 
+<td>{{< figure src="/arcCloud.png" title="servizi AWS selezionati" >}}<td>
+
 ### Implementazioni future
 * Applicativo mobile che permetta (una volta collegato al Wi-Fi del rifugio) il controllo delle automazioni in maniera facile e intuitiva. 
 * Registrazione delle telemetrie dei rifugi sul sull'istanza di DynamoDB, a scopo analitico.

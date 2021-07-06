@@ -1,9 +1,9 @@
 ---
-title: "Ricerca"
+title: "Ricerca sul campo"
 linkTitle: "Ricerca"
 weight: 1
 description: >
-  Ricerca sul Campo.
+
 ---
 
 # Ciclorifugio - un modello economico realizzabile

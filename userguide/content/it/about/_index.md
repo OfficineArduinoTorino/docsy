@@ -26,7 +26,6 @@ Per i dettagli tecnici, approfondimenti consultare la [**Documentazione**](/docs
 ## 5 GOALS SU 17
 Le varie fasi del Ciclorifugio 4.0 rispettano diversi [**obiettivi (SDGS)che l'ONU**](https://sdgs.un.org/goals) si è preposta da raggiungere entro 2030
 <table>
-<tr><td>
 <tr><td>{{< figure src="/SDGS1.PNG" title="Our SDGS" >}}</td><td>**Goal  Istruzione di qualità** 4.7 Entro il 2030, assicurarsi che tutti gli studenti acquisiscono le conoscenze e le competenze necessarie per promuovere lo sviluppo sostenibile attraverso, tra l’altro, l'educazione per lo sviluppo sostenibile e stili di vita sostenibili, i diritti umani, l'uguaglianza di genere, la promozione di una cultura di pace e di non violenza, la cittadinanza globale e la valorizzazione della diversità culturale e del contributo della cultura allo sviluppo sostenibile</td></tr>
 <tr><td>{{< figure src="/SDGS2.PNG" title="Our SDGS" >}}</td><td>**Goal  Istruzione di qualità** 4.7 Entro il 2030, assicurarsi che tutti gli studenti acquisiscono le conoscenze e le competenze necessarie per promuovere lo sviluppo sostenibile attraverso, tra l’altro, l'educazione per lo sviluppo sostenibile e stili di vita sostenibili, i diritti umani, l'uguaglianza di genere, la promozione di una cultura di pace e di non violenza, la cittadinanza globale e la valorizzazione della diversità culturale e del contributo della cultura allo sviluppo sostenibile</td></tr>
 <tr><td>{{< figure src="/SDGS3.PNG" title="Our SDGS" >}}</td><td>**Goal Acqua pulita .** 6.2: Entro il 2030, raggiungere un adeguato ed equo accesso ai servizi igienicosanitari e di igiene per tutti ed eliminare la defecazione all'aperto, con particolare attenzione ai bisogni delle donne e delle ragazze e di coloro che si trovano in situazioni vulnerabili</td></tr>
@@ -56,13 +55,12 @@ Territorio e Green Tech.
 {{% blocks/section type="section" color="white" %}}
 # Ciclo di vita di un Ciclorifugio
 
-|RETROFITTING          |PROMOZIONE          |MANTENIMENTO          |
-|---------------------|--------------------|----------------------|
-|Ciclorifugio : Accessibile, Servizi Base|Inserimento in ROUTE internazionali e in reti turistiche esisstenti|GAMIFICATION|
-|CicloB&B:Un servizio di alto livello di pernottamento, camere con porte, possibilità di ristorazione di livello|[Cycle.Travel](https://cycle.travel/)|RISTORAZIONE|
-||[Komoot](https://www.komoot.com/)|VENDITA di beni locali/dedicati alla bici|
-||[Garden Connnect](http://www.its40.it/wp/portfolio_page/garden-connected-2/)|GITE SCOLASTICHE NATURA + GREEN TECH|
-||[Starbox](https://www.starsbox.it/)|PRENOTAZIONE PERNOTTAMENTO|
-||[Italy bike hotels](https://www.italybikehotels.com/)||
-
+|RETROFITTING                    |
+|---------------------------------------------------------------|
+|Ciclorifugio : Accessibile, Servizi Base|Inserimento in ROUTE internazionali e in reti turistiche esisstenti<br>
+ CicloB&B:Un servizio di alto livello di pernottamento, camere con porte, possibilità di ristorazione di livello|
+|PARTNERS                        |
+||[Cycle.Travel](https://cycle.travel/) <br>[Komoot](https://www.komoot.com/)<br>[Garden Connnect](http://www.its40.it/wp/portfolio_page/garden-connected-2/)<br>[Starbox](https://www.starsbox.it/)<br>[Italy bike hotels](https://www.italybikehotels.com/)|
+|MANTENIMENTO                    |
+|GAMIFICATION <br>RISTORAZIONE<br>VENDITA di beni locali/dedicati alla bici <br>GITE SCOLASTICHE NATURA + GREEN TECH<br>PRENOTAZIONE PERNOTTAMENTO|
 {{% /blocks/section %}}

@@ -72,7 +72,7 @@ facile e intuitiva.
 
 #### Tabella di prova
 
-| funzione | prodotto (link) | home assistant/tasmota link | protocollo di comunicazione | prezzo |
+| Dispositivo | prodotto (link) | home assistant/tasmota link | protocollo di comunicazione | prezzo |
 |---|---|---|---|---|
 | sensori di contatto alla finestre | [Mini Door/Window Sensor](https://goabode.com/security-devices/door-alarms/mini-door-window-sensor) | [home assistant](https://www.home-assistant.io/integrations/abode/) | abodeRF/433Mhz | $27.99 |
 | // | [Door and Window Sensor](https://www.banggood.com/D06-Tuya-Smart-Life-WiFi-Wireless-Remote-Door-and-Window-Sensor-Alarm-Molile-Phone-Control-Sensor-Alarm-Detector-p-1843620.html?p=CM27171011078201412U&cur_warehouse=CN&ID=6287845) | [tasmota](https://templates.blakadder.com/D06.html) | wifi | $18.69 | 

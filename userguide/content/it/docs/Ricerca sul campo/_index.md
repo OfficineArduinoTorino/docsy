@@ -6,15 +6,16 @@ description: >
 
 ---
 
-# Ciclorifugio - un modello economico realizzabile
+## Ciclorifugio - un modello economico realizzabile
 Tante correnti ed enti stanno già prevedendo come e in che forma avverà la ripresa del settore turistico *Post Pandemia*
 La *C.E.* utilizzerà una politica di sostegno massivo verso la Green Economy, un paradigma che diventerà necessario per tutti gli operatori turistici.
 
-## Italia e la bici, un mercato acerbo che può solo aumentare
+### Italia e la bici, un mercato acerbo che può solo aumentare
 Con associazioni d'appassionati e poche infrastutture di livello il mercato pre pandemico era valutato dal report [**ISNART-Legambiente 2019**](https://mybikeway.it/wp-content/uploads/2019/03/1%C2%B0-rapporto-sul-Cicloturismo-in-Italia-2019-Unioncamere-Legambiente.pdf)  **12 miliardi d'euro**
 
 ## 5 GOALS SU 17
 {{< figure src="/collapsed.PNG">}}
+
 
 Le varie fasi del Ciclorifugio 4.0 rispettano diversi [**obiettivi (SDGS)che l'ONU**](https://sdgs.un.org/goals) si è preposta da raggiungere entro 2030
 * **Goal  Istruzione di qualità** 4.7 Entro il 2030, assicurarsi che tutti gli studenti acquisiscono le conoscenze e le competenze necessarie per promuovere lo sviluppo sostenibile attraverso, tra l’altro, l'educazione per lo sviluppo sostenibile e stili di vita sostenibili, i diritti umani, l'uguaglianza di genere, la promozione di una cultura di pace e di non violenza, la cittadinanza globale e la valorizzazione della diversità culturale e del contributo della cultura allo sviluppo sostenibile
@@ -29,14 +30,14 @@ Le varie fasi del Ciclorifugio 4.0 rispettano diversi [**obiettivi (SDGS)che l'O
 13.3 Migliorare l'istruzione, la sensibilizzazione e la capacità umana e istituzionale riguardo ai cambiamenti climatici in materia di mitigazione, adattamento, riduzione dell’impatto e di allerta precoce
 
 
-## Partner Internazionali e Nazionali
+### Partner Internazionali e Nazionali
 
 * [**Eurovelo**](https://en.eurovelo.com/) Leader del Cicloturismo Nord Europeo
 * [**Federazione Italiana Ambiente e Bici**](https://fiabitalia.it/) Federazione che si occupa della promozione della cultura ciclistica
 * [**Giro d’Italia**](https://www.giroditalia.it/) Con ciclorifugii posizionati presso tappe storiche e che invoglino atleti ad allenarsi 
 
 
-## Partner Locali
+### Partner Locali
 Più persone vivono il rifugio, più il rifugio ha successo e viene curato:
 * **AGRICOLTORI:** Offerta di usare il nostro gateway LoRa per la parte della Agritech
 * **SCUOLE ELEMENTARI MEDIE INFERIORI-SUPERIORI:** Uno dei modi di tenerlo usato e strutturare un passaparola locale per renderlo appetibile a gente che non lo conosce il farlo diventare possibile meta di una gita delle scuole locali.
@@ -45,7 +46,7 @@ Territorio e Green Tech.
 * **NEGOZI DI BICI:** Oltre ad offrire kit di assistenza nel nostro ciclorifugio, un'azienda di noleggio bici potrebbe rispondere a quella esigenza di chi, magari non ha modo o voglia di portarsi la propria bici.
 * **AGRITURISMI:** C’è poco da fare, se ti trovi bene dove mangi/dormi crei un rapporto di fiducia, interiorizzando nel progetto i locali dell’area (magari con vending macchine atipiche con prodotti locali) avremmo una pubblicità continua e passiva.
 
-# Ciclo di vita di un Ciclorifugio
+## Ciclo di vita di un Ciclorifugio
 
 |RETROFITTING          |PROMOZIONE          |MANTENIMENTO          |
 |---------------------|--------------------|----------------------|
